@@ -1,3 +1,7 @@
+// To Execute (on Bash): npm rebuild && node index.js
+// To Execute (on PowerShell): npm rebuild; node index.js
+// Reference: https://docs.couchbase.com/nodejs-sdk/current/hello-world/start-using-sdk.html
+
 const couchbase = require('couchbase');
 
 async function main(){
